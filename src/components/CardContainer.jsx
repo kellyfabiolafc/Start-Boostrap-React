@@ -8,8 +8,7 @@ export const CardContainer = ({ gallery }) => {
   );
 };
 
-const Card = ({ element }) => {
-  const { url, title, description } = element;
+const Card = ({ element: {title,url,description}}) => {
   return (
     <div>
       <img src={url} alt={title} />
