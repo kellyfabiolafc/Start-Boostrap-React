@@ -14,6 +14,7 @@ const Card = ({ element: {title,url,description}}) => {
       <img src={url} alt={title} />
       <h3>{title}</h3>
       <p>{description}</p>
+      <p>hola {description}</p>
     </div>
   );
 };
