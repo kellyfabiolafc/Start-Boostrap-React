@@ -25,6 +25,8 @@ export const App = () => {
             para poder manipularlo, como aun es una promesa tambien esperamos esta linea mientras
             se transforma a JSON*/
             const data = await result.json();
+            /* log */
+            console.log(data);
             /* aqui SETEAMOS el resultado de la api en el STATE users */
             setUsers(data.results);
         };
