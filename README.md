@@ -8,8 +8,10 @@ Este repositorio contiene nuestra solución al reto de replicar el sitio web Fre
 
 Puedes ver una demostración en vivo de la aplicación desplegada en los siguientes servicios:
 
-- Netlify: [Start Boostrap ](enlace-a-demo-netlify)
-- Vercel: [Start Boostrap  ](enlace-a-demo-vercel)
+- Netlify: [Start Boostrap ](startt-boostrap-react.netlify.app/)
+- Vercel: [Start Boostrap  ](https://start-boostraps-react.vercel.app/)
+
+
 
 
 ## Objetivo
