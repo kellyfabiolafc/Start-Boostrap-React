@@ -9,6 +9,7 @@ export const SectionMain = () => {
                     <picture className={style['section-main__picture']}>
                         <img
                             src={profile}
+                            alt='profile'
                             className={style['section-main__image']}
                         />
                     </picture>
