@@ -4,7 +4,8 @@ import { IconStart } from '../IconStarts';
 import style from '../../css-modules/SectionContact.module.css';
 export const SectionContact = ({ id }) => {
     return (
-        <Container className={style['section-contact__background']} id={id}>
+        <div id={id} className={style['section-contact__background']}> 
+        <Container>
             <section className={style['section-contact']}>
                 <Title className={style['section-contact__title']}>
                     CONTACT ME
@@ -38,5 +39,6 @@ export const SectionContact = ({ id }) => {
                 </div>
             </section>
         </Container>
+        </div>
     );
 };
