@@ -1,6 +1,5 @@
+<p align="center" width="100%"> <img width="100%" src="/src/assets/images/bannermd.gif"></p><br>
 # Reto Gym: Freelancer Website Replica con React y CSS Modules
-
-![Freelancer Website Replica](link-a-tu-imagen-o-captura-de-pantalla.png)
 
 Este repositorio contiene nuestra solución al reto de replicar el sitio web Freelancer utilizando React y CSS Modules. El objetivo del reto era enfocarse en obtener una maquetación lo más parecida posible al sitio original.
 
